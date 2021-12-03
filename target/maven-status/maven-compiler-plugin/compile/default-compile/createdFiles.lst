@@ -1,0 +1,4 @@
+com\emergentes\modelo\Medico.class
+com\emergentes\modelo\Consulta.class
+com\emergentes\dao\ConsultaDAO.class
+com\emergentes\modelo\Paciente.class
